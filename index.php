@@ -20,7 +20,7 @@
 		
 		// Way 2 more clear and logic if number dividable by 15 (3x5)
 		/*
-		if($i % 15){
+		if($i % 15 == 0){
 			echo "FizzBuzz,";
 		}elseif($i % 3 == 0){
 			echo "Fizz,";
